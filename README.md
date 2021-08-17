@@ -2,4 +2,4 @@
 Repo behorende bij de huiswerkopdracht van Hoofdstuk 4 van de NHA cursus "Programmeren voor beginners"
 
 
-De geheime code is : GUIDO
+De geheime code zit in het bestand 'bericht'
